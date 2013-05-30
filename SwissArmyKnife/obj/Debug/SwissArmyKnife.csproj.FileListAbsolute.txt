@@ -1,0 +1,10 @@
+C:\Users\cazamagni\Documents\misc_projects\SwissArmyKnife\SwissArmyKnife\bin\Debug\SwissArmyKnife.dll
+C:\Users\cazamagni\Documents\misc_projects\SwissArmyKnife\SwissArmyKnife\bin\Debug\SwissArmyKnife.pdb
+C:\Users\cazamagni\Documents\misc_projects\SwissArmyKnife\SwissArmyKnife\obj\Debug\SwissArmyKnife.csprojResolveAssemblyReference.cache
+C:\Users\cazamagni\Documents\misc_projects\SwissArmyKnife\SwissArmyKnife\obj\Debug\SwissArmyKnife.dll
+C:\Users\cazamagni\Documents\misc_projects\SwissArmyKnife\SwissArmyKnife\obj\Debug\SwissArmyKnife.pdb
+C:\Users\cazamagni\Documents\misc_projects\MY_OPEN_PROJ\SwissArmyKnife\SwissArmyKnife\bin\Debug\SwissArmyKnife.dll
+C:\Users\cazamagni\Documents\misc_projects\MY_OPEN_PROJ\SwissArmyKnife\SwissArmyKnife\bin\Debug\SwissArmyKnife.pdb
+C:\Users\cazamagni\Documents\misc_projects\MY_OPEN_PROJ\SwissArmyKnife\SwissArmyKnife\obj\Debug\SwissArmyKnife.csprojResolveAssemblyReference.cache
+C:\Users\cazamagni\Documents\misc_projects\MY_OPEN_PROJ\SwissArmyKnife\SwissArmyKnife\obj\Debug\SwissArmyKnife.dll
+C:\Users\cazamagni\Documents\misc_projects\MY_OPEN_PROJ\SwissArmyKnife\SwissArmyKnife\obj\Debug\SwissArmyKnife.pdb
